@@ -34,6 +34,11 @@
 - 👀 I’m interested in Programming, Mathematics, Machine Learning, Artificial Intelligence and Web Devlopment.
 - 🌱 I’m currently into Web Devlopment
 - 📫 How to reach me : Linkedin :https://www.linkedin.com/in/saikatkumarsardar/
+
+- BADGES
+
+  [![An image of @saikatsardar01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatsardar01)](https://holopin.io/@saikatsardar01)
+
 <!--
 **saikatsardar01/saikatsardar01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
