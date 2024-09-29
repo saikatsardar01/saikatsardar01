@@ -1,5 +1,6 @@
+
 <!--<h1 align="center">Hi 👋, I'm Saikat Kumar Sardar</h1>
-<h3 align="center">A perpetually motivated engineer with strong vision to make changes. Always ready to explore new things.</h3>
+<!--<h3 align="center">A perpetually motivated engineer with strong vision to make changes. Always ready to explore new things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatsardar01&label=Profile%20views&color=0e75b6&style=flat" alt="saikatsardar01" /> </p>
 
@@ -29,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikatsardar01&show_icons=true&locale=en" alt="saikatsardar01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikatsardar01&" alt="saikatsardar01" /></p>-->
-
+<h1 align="center">Hi 👋, I'm Saikat Kumar Sardar</h1>
 - 👋 Hi, I’m @saikatsardar01 || Saikat Kumar Sardar
 - 👀 I’m interested in Programming, Mathematics, Machine Learning, Artificial Intelligence and Web Devlopment.
 - 🌱 I’m currently into Web Devlopment
