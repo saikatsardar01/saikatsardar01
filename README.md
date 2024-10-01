@@ -15,7 +15,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=saikatsardar01&show_icons=true&theme=dracula" />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikatsardar01&show_icons=true&locale=en&layout=compact" alt="saikatsardar01" /></p>
 
-![Metrics](https://github.com/edorado93/edorado93/blob/main/github-metrics.svg)
 
 BADGES
 
