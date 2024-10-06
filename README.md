@@ -20,6 +20,17 @@ BADGES
 
   [![An image of @saikatsardar01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saikatsardar01)](https://holopin.io/@saikatsardar01)
 
+  
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp"> 
+
+<br>
+<div>
+  <div align="center">
+    <img height='400rem' width='1000rem' src="https://github-readme-streak-stats.herokuapp.com/?user=saikatsardar01&theme=midnight-purple&hide_border=false" alt="Streak">
+  </div>
+</div>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
